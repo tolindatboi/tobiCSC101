@@ -1,0 +1,218 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2021.10.28)  3 NOV 2021 18:48
+entering extended mode
+**"./programming languages.tex"
+("programming languages.tex"
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-06-18>
+("C:\Program Files\MiKTeX\tex/latex/base\article.cls"
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+("C:\Program Files\MiKTeX\tex/latex/base\size12.clo"
+File: size12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@section=\count168
+\c@subsection=\count169
+\c@subsubsection=\count170
+\c@paragraph=\count171
+\c@subparagraph=\count172
+\c@figure=\count173
+\c@table=\count174
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+("C:\Program Files\MiKTeX\tex/latex/graphics\graphicx.sty"
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX\tex/latex/graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+("C:\Program Files\MiKTeX\tex/latex/graphics\graphics.sty"
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX\tex/latex/graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+("C:\Program Files\MiKTeX\tex/latex/graphics-def\pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen135
+\Gin@req@width=\dimen136
+)
+("C:\Program Files\MiKTeX\tex/latex/dblfloatfix\dblfloatfix.sty"
+Package: dblfloatfix 2012/12/31 v1.0a (JAW)
+
+("C:\Program Files\MiKTeX\tex/latex/base\fixltx2e.sty"
+Package: fixltx2e 2016/12/29 v2.1a fixes to LaTeX (obsolete)
+Applying: [2015/01/01] Old fixltx2e package on input line 46.
+
+
+Package fixltx2e Warning: fixltx2e is not required with releases after 2015
+(fixltx2e)                All fixes are now in the LaTeX kernel.
+(fixltx2e)                See the latexrelease package for details.
+
+Already applied: [0000/00/00] Old fixltx2e package on input line 53.
+)
+\@dblbotnum=\count175
+\c@dblbotnumber=\count176
+) ("C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdfmode.def"
+File: l3backend-pdfmode.def 2020-06-29 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count177
+\l__pdf_internal_box=\box45
+)
+("programming languages.aux")
+\openout1 = `"programming languages.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+
+("C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count178
+\scratchdimen=\dimen137
+\scratchbox=\box46
+\nofMPsegments=\count179
+\nofMParguments=\count180
+\everyMPshowfont=\toks16
+\MPscratchCnt=\count181
+\MPscratchDim=\dimen138
+\MPnumerator=\count182
+\makeMPintoPDFobject=\count183
+\everyMPtoPDFconversion=\toks17
+) ("C:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty"
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+)
+<bababooey.png, id=1, 237.88875pt x 213.79875pt>
+File: bababooey.png Graphic file (type png)
+<use bababooey.png>
+Package pdftex.def Info: bababooey.png  used on input line 21.
+(pdftex.def)             Requested size: 272.99881pt x 245.36424pt.
+ [1
+
+{C:/ProgramData/MiKTeX/pdftex/config/pdftex.map} <./bababooey.png (PNG copy)>]
+<screenshot005.png, id=9, 315.42844pt x 256.70906pt>
+File: screenshot005.png Graphic file (type png)
+<use screenshot005.png>
+Package pdftex.def Info: screenshot005.png  used on input line 38.
+(pdftex.def)             Requested size: 272.99881pt x 222.19128pt.
+
+[2 <./screenshot005.png>]
+<screenshot 6.png, id=15, 937.101pt x 534.798pt>
+File: screenshot 6.png Graphic file (type png)
+<use screenshot 6.png>
+Package pdftex.def Info: screenshot 6.png  used on input line 50.
+(pdftex.def)             Requested size: 272.99881pt x 155.7974pt.
+ [3 <./screenshot 6.png>]
+<screenshot006.png, id=20, 577.40718pt x 328.22626pt>
+File: screenshot006.png Graphic file (type png)
+<use screenshot006.png>
+Package pdftex.def Info: screenshot006.png  used on input line 67.
+(pdftex.def)             Requested size: 272.99881pt x 155.19289pt.
+ [4 <./screenshot006.png>]
+[5]
+<screenshot007.png, id=28, 210.7875pt x 252.945pt>
+File: screenshot007.png Graphic file (type png)
+<use screenshot007.png>
+Package pdftex.def Info: screenshot007.png  used on input line 95.
+(pdftex.def)             Requested size: 272.99881pt x 327.60497pt.
+ [6 <./screenshot007.png>]
+<screenshot008.png, id=33, 455.7828pt x 354.123pt>
+File: screenshot008.png Graphic file (type png)
+<use screenshot008.png>
+Package pdftex.def Info: screenshot008.png  used on input line 106.
+(pdftex.def)             Requested size: 272.99881pt x 212.10799pt.
+ [7 <./screenshot008.png>]
+<9th pic.png, id=39, 788.7066pt x 374.3586pt>
+File: 9th pic.png Graphic file (type png)
+<use 9th pic.png>
+Package pdftex.def Info: 9th pic.png  used on input line 122.
+(pdftex.def)             Requested size: 272.99881pt x 129.57655pt.
+ [8 <./9th pic.png>]
+[9]
+<screenshot009.png, id=47, 353.82187pt x 222.8325pt>
+File: screenshot009.png Graphic file (type png)
+<use screenshot009.png>
+Package pdftex.def Info: screenshot009.png  used on input line 147.
+(pdftex.def)             Requested size: 272.99881pt x 171.93517pt.
+ [10 <./screenshot009.png>]
+<screenshot010.png, id=52, 441.90094pt x 507.39563pt>
+File: screenshot010.png Graphic file (type png)
+<use screenshot010.png>
+Package pdftex.def Info: screenshot010.png  used on input line 158.
+(pdftex.def)             Requested size: 272.99881pt x 313.4749pt.
+ [11 <./screenshot010.png>]
+<screenshot011.png, id=57, 495.35063pt x 436.63126pt>
+File: screenshot011.png Graphic file (type png)
+<use screenshot011.png>
+Package pdftex.def Info: screenshot011.png  used on input line 175.
+(pdftex.def)             Requested size: 272.99881pt x 240.6343pt.
+ [12 <./screenshot011.png>] [13]
+<screenshot012.png, id=66, 217.5628pt x 228.10219pt>
+File: screenshot012.png Graphic file (type png)
+<use screenshot012.png>
+Package pdftex.def Info: screenshot012.png  used on input line 198.
+(pdftex.def)             Requested size: 272.99881pt x 286.26166pt.
+ [14 <./screenshot012.png>]
+<screenshot013.png, id=71, 363.60844pt x 208.52907pt>
+File: screenshot013.png Graphic file (type png)
+<use screenshot013.png>
+Package pdftex.def Info: screenshot013.png  used on input line 210.
+(pdftex.def)             Requested size: 272.99881pt x 156.56822pt.
+ [15 <./screenshot013.png>]
+<screenshot014.png, id=76, 532.99126pt x 389.95688pt>
+File: screenshot014.png Graphic file (type png)
+<use screenshot014.png>
+Package pdftex.def Info: screenshot014.png  used on input line 226.
+(pdftex.def)             Requested size: 272.99881pt x 199.74411pt.
+ [16 <./screenshot014.png>] [17]
+<screenshot015.png, id=84, 276.28218pt x 222.8325pt>
+File: screenshot015.png Graphic file (type png)
+<use screenshot015.png>
+Package pdftex.def Info: screenshot015.png  used on input line 249.
+(pdftex.def)             Requested size: 272.99881pt x 220.18323pt.
+ [18 <./screenshot015.png>] [19]
+<screenshot016.png, id=93, 544.28343pt x 319.94531pt>
+File: screenshot016.png Graphic file (type png)
+<use screenshot016.png>
+Package pdftex.def Info: screenshot016.png  used on input line 271.
+(pdftex.def)             Requested size: 272.99881pt x 160.4751pt.
+ [20 <./screenshot016.png>]
+("programming languages.aux") ) 
+Here is how much of TeX's memory you used:
+ 1289 strings out of 480790
+ 19567 string characters out of 2907057
+ 251027 words of memory out of 3000000
+ 17339 multiletter control sequences out of 15000+200000
+ 534491 words of font info for 31 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 30i,5n,25p,377b,213s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\user\AppData\Local\MiKTeX\fonts/pk/lj
+four/jknappen/ec/dpi600\tcrm1200.pk><C:/Program Files/MiKTeX/fonts/type1/public
+/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm
+/cmr12.pfb>
+Output written on "programming languages.pdf" (20 pages, 1375913 bytes).
+PDF statistics:
+ 110 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 76 words of extra memory for PDF output out of 10000 (max. 10000000)
+
