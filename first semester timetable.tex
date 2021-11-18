@@ -1,0 +1,30 @@
+\documentclass{article}
+
+\usepackage{rotating} % To display tables in landscape
+
+\begin{document}
+	
+	\begin{sidewaystable}[h!]
+		\begin{center}
+			\caption{First Semester Computer SCience Timetable}
+			\label{tab:table1}
+		\begin{tabular}{l|c|l|c|c|c|c|c|c|c}
+        \textbf{Course code} & \textbf{Course title} & \textbf{Status} & \textbf{Unit}
+        & \textbf{Time} & \textbf{Monday} & \textbf{Tuesday} & \textbf{Wednesday} & \textbf{Thursday} & \textbf{Friday}\\
+        \hline
+      \cellcolor{red!35}GST 101 & Communication in English I & C & 2 & 9 - 10AM & PHY 101 & MTH 101 & - & - & - \\
+        \cellcolor{red!35}GST 103 & Use of Library and Study Skills & C & 2 & 10 - 11AM & PHY 101 & MTH 101 & - & - & - \\
+        \cellcolor{red!35}GST 108 & Introduction to Quantitative reasoning & C & 2 & 11 - 12AM & CHM 101 & GST 103 & - & GST 108 & GST 101\\
+        \cellcolor{red!35}CHM 101 & Introduction to Chemistry & C & 3 & 12 - 1PM & CHM 101 & GST 103 & PHY 101 & GST 108 & GST 101\\
+        \cellcolor{red!35}CHM 107 & Practical Chemistry & C & 1 & 1 - 2:30PM & BREAK & BREAK & BREAK & BREAK & BREAK\\
+        \cellcolor{red!35}MTH 101 & Introduction to Algebra & C & 2 & 2:30 - 3:30PM & MTH101 & CHM 107 & CHM 101 & CSC 101 & PHY107\\
+        \cellcolor{red!35}PHY 101 & Introduction to Physics & C & 3 & 3:30 - 4:30PM & MTH 101 & CHM 107 & - & CSC 101 & PHY 107\\
+        \cellcolor{red!35}PHY 107 & Practical Physics & C & 1 & 4:30 - 5:30 & - & CHM 107 & - & CSC 101 & PHY 107\\
+        \cellcolor{red!35}CSC 101 & Introduction to Computer Science & C & 3 & 5:30 - 6:30 & - & - & - & - & -\\
+        \hline
+     \end{tabular}
+     
+         
+		\end{center}
+	\end{sidewaystable}
+\end{document}
