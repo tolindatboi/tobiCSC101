@@ -1,79 +1,79 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2021.10.28)  4 NOV 2021 04:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.10) (preloaded format=pdflatex 2021.11.24)  24 NOV 2021 18:56
 entering extended mode
 **"./insert an image in latex 2.tex"
-("insert an image in latex 2.tex"
-LaTeX2e <2020-02-02> patch level 5
-L3 programming layer <2020-06-18>
-("C:\Program Files\MiKTeX\tex/latex/base\article.cls"
-Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
-("C:\Program Files\MiKTeX\tex/latex/base\size10.clo"
-File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+(insert an image in latex 2.tex
+LaTeX2e <2021-11-15>
+L3 programming layer <2021-11-22>
+(C:\Program Files\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(C:\Program Files\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 )
-\c@part=\count167
-\c@section=\count168
-\c@subsection=\count169
-\c@subsubsection=\count170
-\c@paragraph=\count171
-\c@subparagraph=\count172
-\c@figure=\count173
-\c@table=\count174
+\c@part=\count183
+\c@section=\count184
+\c@subsection=\count185
+\c@subsubsection=\count186
+\c@paragraph=\count187
+\c@subparagraph=\count188
+\c@figure=\count189
+\c@table=\count190
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
-\bibindent=\dimen134
+\bibindent=\dimen138
 )
-("C:\Program Files\MiKTeX\tex/latex/graphics\graphicx.sty"
-Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+(C:\Program Files\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files\MiKTeX\tex/latex/graphics\keyval.sty"
+(C:\Program Files\MiKTeX\tex/latex/graphics\keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks15
+\KV@toks@=\toks16
 )
-("C:\Program Files\MiKTeX\tex/latex/graphics\graphics.sty"
-Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+(C:\Program Files\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files\MiKTeX\tex/latex/graphics\trig.sty"
-Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+(C:\Program Files\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
 )
-("C:\Program Files\MiKTeX\tex/latex/graphics-cfg\graphics.cfg"
+(C:\Program Files\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: pdftex.def on input line 105.
+Package graphics Info: Driver file: pdftex.def on input line 107.
 
-("C:\Program Files\MiKTeX\tex/latex/graphics-def\pdftex.def"
-File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+(C:\Program Files\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 ))
-\Gin@req@height=\dimen135
-\Gin@req@width=\dimen136
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
 )
-("C:\Program Files\MiKTeX\tex/latex/caption\subcaption.sty"
+(C:\Program Files\MiKTeX\tex/latex/caption\subcaption.sty
 Package: subcaption 2020/10/07 v1.3j Sub-captions (AR)
 
-("C:\Program Files\MiKTeX\tex/latex/caption\caption.sty"
+(C:\Program Files\MiKTeX\tex/latex/caption\caption.sty
 Package: caption 2020/10/26 v3.5g Customizing captions (AR)
 
-("C:\Program Files\MiKTeX\tex/latex/caption\caption3.sty"
+(C:\Program Files\MiKTeX\tex/latex/caption\caption3.sty
 Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
-\captionmargin=\dimen137
-\captionmargin@=\dimen138
-\captionwidth=\dimen139
-\caption@tempdima=\dimen140
-\caption@indent=\dimen141
-\caption@parindent=\dimen142
-\caption@hangindent=\dimen143
+\captionmargin=\dimen141
+\captionmargin@=\dimen142
+\captionwidth=\dimen143
+\caption@tempdima=\dimen144
+\caption@indent=\dimen145
+\caption@parindent=\dimen146
+\caption@hangindent=\dimen147
 Package caption Info: Standard document class detected.
 )
-\c@caption@flags=\count175
-\c@continuedfloat=\count176
+\c@caption@flags=\count191
+\c@continuedfloat=\count192
 )
-\c@subfigure=\count177
-\c@subtable=\count178
+\c@subfigure=\count193
+\c@subtable=\count194
 )
-("C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdfmode.def"
-File: l3backend-pdfmode.def 2020-06-29 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count179
-\l__pdf_internal_box=\box45
+(C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2021-10-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count195
+\l__pdf_internal_box=\box50
 )
-("insert an image in latex 2.aux")
+(insert an image in latex 2.aux)
 \openout1 = `"insert an image in latex 2.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
@@ -91,24 +91,27 @@ LaTeX Font Info:    ... okay on input line 6.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
 LaTeX Font Info:    ... okay on input line 6.
 
-("C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii"
+(C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count180
-\scratchdimen=\dimen144
-\scratchbox=\box46
-\nofMPsegments=\count181
-\nofMParguments=\count182
-\everyMPshowfont=\toks16
-\MPscratchCnt=\count183
-\MPscratchDim=\dimen145
-\MPnumerator=\count184
-\makeMPintoPDFobject=\count185
-\everyMPtoPDFconversion=\toks17
-) ("C:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty"
+\scratchcounter=\count196
+\scratchdimen=\dimen148
+\scratchbox=\box51
+\nofMPsegments=\count197
+\nofMParguments=\count198
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count199
+\MPscratchDim=\dimen149
+\MPnumerator=\count266
+\makeMPintoPDFobject=\count267
+\everyMPtoPDFconversion=\toks18
+) (C:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
-)
+
+(C:\Program Files\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
 <screenshot017.png, id=1, 147.55125pt x 147.55125pt>
@@ -131,22 +134,22 @@ LaTeX Warning: Float too large for page by 89.5111pt on input line 26.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[1{C:/ProgramData/MiKTeX/pdftex/config/pdftex.map} <./screenshot017.png (PNG co
-py)>] ("insert an image in latex 2.aux") ) 
+[1{C:/Users/user/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./screenshot01
+7.png (PNG copy)>] (insert an image in latex 2.aux) ) 
 Here is how much of TeX's memory you used:
- 2440 strings out of 480790
- 41687 string characters out of 2907057
- 279187 words of memory out of 3000000
- 18491 multiletter control sequences out of 15000+200000
- 532637 words of font info for 25 fonts, out of 3000000 for 9000
+ 2615 strings out of 478681
+ 47266 string characters out of 2856394
+ 343516 words of memory out of 3000000
+ 20757 multiletter control sequences out of 15000+600000
+ 403729 words of font info for 28 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 46i,7n,47p,304b,441s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/MiKTeX/fonts/type1/
-public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfon
-ts/cm/cmr9.pfb>
-Output written on "insert an image in latex 2.pdf" (1 page, 69871 bytes).
+ 67i,8n,77p,304b,460s stack positions out of 5000i,500n,10000p,200000b,80000s
+<C:/Program Files/MiKTeX/f
+onts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/pu
+blic/amsfonts/cm/cmr9.pfb>
+Output written on "insert an image in latex 2.pdf" (1 page, 71587 bytes).
 PDF statistics:
- 15 PDF objects out of 1000 (max. 8388607)
+ 17 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 

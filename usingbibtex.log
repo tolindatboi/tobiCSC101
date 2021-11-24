@@ -1,30 +1,30 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2021.10.28)  24 NOV 2021 13:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.10) (preloaded format=pdflatex 2021.11.24)  24 NOV 2021 19:07
 entering extended mode
 **./usingbibtex.tex
 (usingbibtex.tex
-LaTeX2e <2020-02-02> patch level 5
-L3 programming layer <2020-06-18>
-("C:\Program Files\MiKTeX\tex/latex/base\article.cls"
-Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
-("C:\Program Files\MiKTeX\tex/latex/base\size10.clo"
-File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+LaTeX2e <2021-11-15>
+L3 programming layer <2021-11-22>
+(C:\Program Files\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(C:\Program Files\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 )
-\c@part=\count167
-\c@section=\count168
-\c@subsection=\count169
-\c@subsubsection=\count170
-\c@paragraph=\count171
-\c@subparagraph=\count172
-\c@figure=\count173
-\c@table=\count174
+\c@part=\count183
+\c@section=\count184
+\c@subsection=\count185
+\c@subsubsection=\count186
+\c@paragraph=\count187
+\c@subparagraph=\count188
+\c@figure=\count189
+\c@table=\count190
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
-\bibindent=\dimen134
+\bibindent=\dimen138
 )
-("C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdfmode.def"
-File: l3backend-pdfmode.def 2020-06-29 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count175
-\l__pdf_internal_box=\box45
+(C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2021-10-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count191
+\l__pdf_internal_box=\box50
 )
 (usingbibtex.aux)
 \openout1 = `usingbibtex.aux'.
@@ -43,35 +43,24 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 3.
 LaTeX Font Info:    ... okay on input line 3.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 3.
 LaTeX Font Info:    ... okay on input line 3.
+ [1
 
-
-LaTeX Warning: Citation `moru2020machine' on page 1 undefined on input line 5.
-
-[1
-
-{C:/ProgramData/MiKTeX/pdftex/config/pdftex.map}] (usingbibtex.bbl
-
-LaTeX Warning: Empty `thebibliography' environment on input line 3.
-
-) [2] (usingbibtex.aux)
-
-LaTeX Warning: There were undefined references.
-
- ) 
+{C:/Users/user/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] (usingbibtex.bbl
+) [2] (usingbibtex.aux) ) 
 Here is how much of TeX's memory you used:
- 373 strings out of 480790
- 6424 string characters out of 2907057
- 238890 words of memory out of 3000000
- 16461 multiletter control sequences out of 15000+200000
- 533251 words of font info for 27 fonts, out of 3000000 for 9000
+ 414 strings out of 478681
+ 7696 string characters out of 2856394
+ 304051 words of memory out of 3000000
+ 18596 multiletter control sequences out of 15000+600000
+ 404381 words of font info for 30 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 25i,4n,22p,173b,110s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Progra
-m Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKT
-eX/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on usingbibtex.pdf (2 pages, 34363 bytes).
+ 34i,5n,38p,174b,147s stack positions out of 5000i,500n,10000p,200000b,80000s
+<C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/c
+m/cmbx12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+<C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on usingbibtex.pdf (2 pages, 44312 bytes).
 PDF statistics:
- 21 PDF objects out of 1000 (max. 8388607)
+ 24 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
