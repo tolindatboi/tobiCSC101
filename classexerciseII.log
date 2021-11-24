@@ -1,0 +1,58 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2021.10.28)  24 NOV 2021 05:38
+entering extended mode
+**./classexerciseII.tex
+(classexerciseII.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-06-18>
+("C:\Program Files\MiKTeX\tex/latex/base\article.cls"
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+("C:\Program Files\MiKTeX\tex/latex/base\size10.clo"
+File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@section=\count168
+\c@subsection=\count169
+\c@subsubsection=\count170
+\c@paragraph=\count171
+\c@subparagraph=\count172
+\c@figure=\count173
+\c@table=\count174
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+("C:\Program Files\MiKTeX\tex/latex/xcolor\xcolor.sty"
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("C:\Program Files\MiKTeX\tex/latex/graphics-cfg\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+("C:\Program Files\MiKTeX\tex/latex/graphics-def\pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+)
+
+! LaTeX Error: File `colortbl.sty' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: sty)
+
+Enter file name: 
+! Emergency stop.
+<read *> 
+         
+l.268 \long
+           \def\@secondoffive#1#2#3#4#5{#2}
+*** (cannot \read from terminal in nonstop modes)
+
+ 
+Here is how much of TeX's memory you used:
+ 514 strings out of 480790
+ 6245 string characters out of 2907057
+ 240022 words of memory out of 3000000
+ 16605 multiletter control sequences out of 15000+200000
+ 532338 words of font info for 24 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 25i,0n,21p,180b,36s stack positions out of 5000i,500n,10000p,200000b,50000s
+!  ==> Fatal error occurred, no output PDF file produced!

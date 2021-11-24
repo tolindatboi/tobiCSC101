@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2021.10.28)  18 NOV 2021 03:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2021.10.28)  24 NOV 2021 14:32
 entering extended mode
 **"./first semester timetable.tex"
 ("first semester timetable.tex"
@@ -21,6 +21,146 @@ File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 \belowcaptionskip=\skip48
 \bibindent=\dimen134
 )
+("C:\Program Files\MiKTeX\tex/latex/xcolor\xcolor.sty"
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("C:\Program Files\MiKTeX\tex/latex/graphics-cfg\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+("C:\Program Files\MiKTeX\tex/latex/graphics-def\pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+)
+("C:\Program Files\MiKTeX\tex/latex/colortbl\colortbl.sty"
+Package: colortbl 2020/01/04 v1.0e Color table columns (DPC)
+
+("C:\Program Files\MiKTeX\tex/latex/tools\array.sty"
+Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
+\col@sep=\dimen135
+\ar@mcellbox=\box45
+\extrarowheight=\dimen136
+\NC@list=\toks15
+\extratabsurround=\skip49
+\backup@length=\skip50
+\ar@cellbox=\box46
+)
+\everycr=\toks16
+\minrowclearance=\skip51
+)
+\rownum=\count175
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+("C:\Program Files\MiKTeX\tex/latex/siunitx\siunitx.sty"
+Package: siunitx 2021-11-03 v3.0.35 A comprehensive (SI) units package
+\l__siunitx_angle_tmp_dim=\dimen137
+\l__siunitx_angle_marker_box=\box47
+\l__siunitx_angle_unit_box=\box48
+\l__siunitx_compound_count_int=\count176
+
+("C:\Program Files\MiKTeX\tex/latex/translations\translations.sty"
+Package: translations 2021/01/17 v1.10a internationalization of LaTeX2e package
+s (CN)
+
+("C:\Program Files\MiKTeX\tex/latex/etoolbox\etoolbox.sty"
+Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count177
+)
+("C:\Program Files\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty"
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Program Files\MiKTeX\tex/generic/infwarerr\infwarerr.sty"
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX\tex/generic/iftex\iftex.sty"
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
+("C:\Program Files\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty"
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+! Undefined control sequence.
+l.73 \AddToHook
+               {begindocument/before}{
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.73 \AddToHook{b
+                 egindocument/before}{
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Package translations Info: No language package found. I am going to use `englis
+h' as default language. on input line 78.
+)
+\l__siunitx_number_exponent_fixed_int=\count178
+\l__siunitx_number_min_decimal_int=\count179
+\l__siunitx_number_min_integer_int=\count180
+\l__siunitx_number_round_precision_int=\count181
+\l__siunitx_number_group_minimum_int=\count182
+ ("C:\Program Files\MiKTeX\tex/latex/amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Program Files\MiKTeX\tex/latex/amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks17
+\ex@=\dimen138
+))
+\l__siunitx_table_tmp_box=\box49
+\l__siunitx_table_tmp_dim=\dimen139
+\l__siunitx_table_column_width_dim=\dimen140
+\l__siunitx_table_integer_box=\box50
+\l__siunitx_table_decimal_box=\box51
+\l__siunitx_table_before_box=\box52
+\l__siunitx_table_after_box=\box53
+\l__siunitx_table_before_dim=\dimen141
+\l__siunitx_table_carry_dim=\dimen142
+\l__siunitx_unit_tmp_int=\count183
+\l__siunitx_unit_position_int=\count184
+\l__siunitx_unit_total_int=\count185
+
+("C:\Program Files\MiKTeX\tex/latex/l3packages/l3keys2e\l3keys2e.sty"
+("C:\Program Files\MiKTeX\tex/latex/l3kernel\expl3.sty"
+Package: expl3 2020-06-18 L3 programming layer (loader) 
+
+("C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdfmode.def"
+File: l3backend-pdfmode.def 2020-06-29 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count186
+\l__pdf_internal_box=\box54
+))
+Package: l3keys2e 2020-05-15 LaTeX2e option processing using LaTeX3 keys
+)
+("C:\Program Files\MiKTeX\tex/latex/l3packages/xparse\xparse.sty"
+Package: xparse 2020-05-15 L3 Experimental document command parser
+
+("C:\Program Files\MiKTeX\tex/latex/l3packages/xparse\xparse-generic.tex"
+\l__xparse_current_arg_int=\count187
+\g__xparse_grabber_int=\count188
+\l__xparse_m_args_int=\count189
+\l__xparse_v_nesting_int=\count190
+)))
 ("C:\Program Files\MiKTeX\tex/latex/graphics\rotating.sty"
 Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
 
@@ -29,7 +169,7 @@ Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
 
 ("C:\Program Files\MiKTeX\tex/latex/graphics\keyval.sty"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks15
+\KV@toks@=\toks18
 )
 ("C:\Program Files\MiKTeX\tex/latex/graphics\graphics.sty"
 Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
@@ -41,191 +181,91 @@ Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 105.
-
-("C:\Program Files\MiKTeX\tex/latex/graphics-def\pdftex.def"
-File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
-))
-\Gin@req@height=\dimen135
-\Gin@req@width=\dimen136
+)
+\Gin@req@height=\dimen143
+\Gin@req@width=\dimen144
 )
 ("C:\Program Files\MiKTeX\tex/latex/base\ifthen.sty"
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
-\c@r@tfl@t=\count175
-\rotFPtop=\skip49
-\rotFPbot=\skip50
-\rot@float@box=\box45
-\rot@mess@toks=\toks16
-)
-("C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdfmode.def"
-File: l3backend-pdfmode.def 2020-06-29 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count176
-\l__pdf_internal_box=\box46
+\c@r@tfl@t=\count191
+\rotFPtop=\skip52
+\rotFPbot=\skip53
+\rot@float@box=\box55
+\rot@mess@toks=\toks19
 )
 ("first semester timetable.aux")
 \openout1 = `"first semester timetable.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
 
 ("C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count177
-\scratchdimen=\dimen137
-\scratchbox=\box47
-\nofMPsegments=\count178
-\nofMParguments=\count179
-\everyMPshowfont=\toks17
-\MPscratchCnt=\count180
-\MPscratchDim=\dimen138
-\MPnumerator=\count181
-\makeMPintoPDFobject=\count182
-\everyMPtoPDFconversion=\toks18
+\scratchcounter=\count192
+\scratchdimen=\dimen145
+\scratchbox=\box56
+\nofMPsegments=\count193
+\nofMParguments=\count194
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count195
+\MPscratchDim=\dimen146
+\MPnumerator=\count196
+\makeMPintoPDFobject=\count197
+\everyMPtoPDFconversion=\toks21
 ) ("C:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty"
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
 )
+! Undefined control sequence.
+<argument> \@trnslt@loaded@languages 
+                                     
+l.7 \begin{document}
+                    
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 11.
+(Font)              <7> on input line 13.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 11.
-
-! Undefined control sequence.
-<recently read> \cellcolor 
-                           
-l.15       \cellcolor
-                     {red!GST 101} & Communication in English I & C & 2 & 9 ...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-<recently read> \cellcolor 
-                           
-l.16         \cellcolor
-                       {red!35}GST 103 & Use of Library and Study Skills & C...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-<recently read> \cellcolor 
-                           
-l.17         \cellcolor
-                       {red!35}GST 108 & Introduction to Quantitative reason...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-<recently read> \cellcolor 
-                           
-l.18         \cellcolor
-                       {red!35}CHM 101 & Introduction to Chemistry & C & 3 &...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-<recently read> \cellcolor 
-                           
-l.19         \cellcolor
-                       {red!35}CHM 107 & Practical Chemistry & C & 1 & 1 - 2...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-<recently read> \cellcolor 
-                           
-l.20         \cellcolor
-                       {red!35}MTH 101 & Introduction to Algebra & C & 2 & 2...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-<recently read> \cellcolor 
-                           
-l.21         \cellcolor
-                       {red!35}PHY 101 & Introduction to Physics & C & 3 & 3...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-<recently read> \cellcolor 
-                           
-l.22         \cellcolor
-                       {red!35}PHY 107 & Practical Physics & C & 1 & 4:30 - ...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-<recently read> \cellcolor 
-                           
-l.23         \cellcolor
-                       {red!35}CSC 101 & Introduction to Computer Science & ...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-Overfull \hbox (154.18486pt too wide) in paragraph at lines 11--26
- [] 
- []
-
+(Font)              <5> on input line 13.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[1{C:/ProgramData/MiKTeX/pdftex/config/pdftex.map}]
+[1
+
+{C:/ProgramData/MiKTeX/pdftex/config/pdftex.map}] [2]
 ("first semester timetable.aux") ) 
 Here is how much of TeX's memory you used:
- 1244 strings out of 480790
- 18036 string characters out of 2907057
- 258981 words of memory out of 3000000
- 17299 multiletter control sequences out of 15000+200000
+ 5884 strings out of 480790
+ 133444 string characters out of 2907057
+ 361344 words of memory out of 3000000
+ 21878 multiletter control sequences out of 15000+200000
  532646 words of font info for 25 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 38i,10n,29p,229b,341s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 44i,11n,48p,819b,512s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX/fonts/type1/public/a
 msfonts/cm/cmbx10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/c
 mr10.pfb>
-Output written on "first semester timetable.pdf" (1 page, 36858 bytes).
+Output written on "first semester timetable.pdf" (2 pages, 34981 bytes).
 PDF statistics:
- 14 PDF objects out of 1000 (max. 8388607)
+ 17 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

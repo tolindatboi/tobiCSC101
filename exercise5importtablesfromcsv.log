@@ -1,0 +1,656 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2021.10.28)  24 NOV 2021 14:29
+entering extended mode
+**./exercise5importtablesfromcsv.tex
+(exercise5importtablesfromcsv.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-06-18>
+("C:\Program Files\MiKTeX\tex/latex/base\article.cls"
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+("C:\Program Files\MiKTeX\tex/latex/base\size10.clo"
+File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@section=\count168
+\c@subsection=\count169
+\c@subsubsection=\count170
+\c@paragraph=\count171
+\c@subparagraph=\count172
+\c@figure=\count173
+\c@table=\count174
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+("C:\Program Files\MiKTeX\tex/latex/booktabs\booktabs.sty"
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen135
+\lightrulewidth=\dimen136
+\cmidrulewidth=\dimen137
+\belowrulesep=\dimen138
+\belowbottomsep=\dimen139
+\aboverulesep=\dimen140
+\abovetopsep=\dimen141
+\cmidrulesep=\dimen142
+\cmidrulekern=\dimen143
+\defaultaddspace=\dimen144
+\@cmidla=\count175
+\@cmidlb=\count176
+\@aboverulesep=\dimen145
+\@belowrulesep=\dimen146
+\@thisruleclass=\count177
+\@lastruleclass=\count178
+\@thisrulewidth=\dimen147
+)
+("C:\Program Files\MiKTeX\tex/latex/siunitx\siunitx.sty"
+Package: siunitx 2021-11-03 v3.0.35 A comprehensive (SI) units package
+\l__siunitx_angle_tmp_dim=\dimen148
+\l__siunitx_angle_marker_box=\box45
+\l__siunitx_angle_unit_box=\box46
+\l__siunitx_compound_count_int=\count179
+
+("C:\Program Files\MiKTeX\tex/latex/translations\translations.sty"
+Package: translations 2021/01/17 v1.10a internationalization of LaTeX2e package
+s (CN)
+
+("C:\Program Files\MiKTeX\tex/latex/etoolbox\etoolbox.sty"
+Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count180
+)
+("C:\Program Files\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty"
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Program Files\MiKTeX\tex/generic/infwarerr\infwarerr.sty"
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX\tex/generic/iftex\iftex.sty"
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
+("C:\Program Files\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty"
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+! Undefined control sequence.
+l.73 \AddToHook
+               {begindocument/before}{
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.73 \AddToHook{b
+                 egindocument/before}{
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Package translations Info: No language package found. I am going to use `englis
+h' as default language. on input line 78.
+)
+\l__siunitx_number_exponent_fixed_int=\count181
+\l__siunitx_number_min_decimal_int=\count182
+\l__siunitx_number_min_integer_int=\count183
+\l__siunitx_number_round_precision_int=\count184
+\l__siunitx_number_group_minimum_int=\count185
+ ("C:\Program Files\MiKTeX\tex/latex/amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Program Files\MiKTeX\tex/latex/amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks15
+\ex@=\dimen149
+))
+\l__siunitx_table_tmp_box=\box47
+\l__siunitx_table_tmp_dim=\dimen150
+\l__siunitx_table_column_width_dim=\dimen151
+\l__siunitx_table_integer_box=\box48
+\l__siunitx_table_decimal_box=\box49
+\l__siunitx_table_before_box=\box50
+\l__siunitx_table_after_box=\box51
+\l__siunitx_table_before_dim=\dimen152
+\l__siunitx_table_carry_dim=\dimen153
+\l__siunitx_unit_tmp_int=\count186
+\l__siunitx_unit_position_int=\count187
+\l__siunitx_unit_total_int=\count188
+
+("C:\Program Files\MiKTeX\tex/latex/l3packages/l3keys2e\l3keys2e.sty"
+("C:\Program Files\MiKTeX\tex/latex/l3kernel\expl3.sty"
+Package: expl3 2020-06-18 L3 programming layer (loader) 
+
+("C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdfmode.def"
+File: l3backend-pdfmode.def 2020-06-29 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count189
+\l__pdf_internal_box=\box52
+))
+Package: l3keys2e 2020-05-15 LaTeX2e option processing using LaTeX3 keys
+)
+("C:\Program Files\MiKTeX\tex/latex/l3packages/xparse\xparse.sty"
+Package: xparse 2020-05-15 L3 Experimental document command parser
+
+("C:\Program Files\MiKTeX\tex/latex/l3packages/xparse\xparse-generic.tex"
+\l__xparse_current_arg_int=\count190
+\g__xparse_grabber_int=\count191
+\l__xparse_m_args_int=\count192
+\l__xparse_v_nesting_int=\count193
+))
+("C:\Program Files\MiKTeX\tex/latex/tools\array.sty"
+Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
+\col@sep=\dimen154
+\ar@mcellbox=\box53
+\extrarowheight=\dimen155
+\NC@list=\toks16
+\extratabsurround=\skip49
+\backup@length=\skip50
+\ar@cellbox=\box54
+))
+("C:\Program Files\MiKTeX\tex/latex/pgfplots\pgfplotstable.sty"
+("C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplots.revision.tex")
+Package: pgfplotstable 2020/02/29 v1.17 Table typesetting and Pretty-printing (
+1.17)
+
+("C:\Program Files\MiKTeX\tex/latex/pgfplots\pgfplots.sty"
+("C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplots.revision.tex")
+Package: pgfplots 2020/02/29 v1.17 Data Visualization (1.17)
+
+("C:\Program Files\MiKTeX\tex/latex/graphics\graphicx.sty"
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX\tex/latex/graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+("C:\Program Files\MiKTeX\tex/latex/graphics\graphics.sty"
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX\tex/latex/graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+("C:\Program Files\MiKTeX\tex/latex/graphics-def\pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen156
+\Gin@req@width=\dimen157
+)
+("C:\Program Files\MiKTeX\tex/latex/pgf/frontendlayer\tikz.sty"
+("C:\Program Files\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty"
+("C:\Program Files\MiKTeX\tex/latex/pgf/utilities\pgfrcs.sty"
+("C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfutil-common.tex"
+\pgfutil@everybye=\toks18
+\pgfutil@tempdima=\dimen158
+\pgfutil@tempdimb=\dimen159
+
+("C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfutil-common-lists.tex"))
+("C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfutil-latex.def"
+\pgfutil@abb=\box55
+
+("C:\Program Files\MiKTeX\tex/latex/ms\everyshi.sty"
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+("C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfrcs.code.tex"
+("C:\Program Files\MiKTeX\tex/generic/pgf\pgf.revision.tex")
+Package: pgfrcs 2020/01/08 v3.1.5b (3.1.5b)
+))
+Package: pgf 2020/01/08 v3.1.5b (3.1.5b)
+
+("C:\Program Files\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.sty"
+("C:\Program Files\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.sty"
+("C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsys.code.tex"
+Package: pgfsys 2020/01/08 v3.1.5b (3.1.5b)
+
+("C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex"
+\pgfkeys@pathtoks=\toks19
+\pgfkeys@temptoks=\toks20
+
+("C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfkeysfiltered.code.tex"
+\pgfkeys@tmptoks=\toks21
+))
+\pgf@x=\dimen160
+\pgf@y=\dimen161
+\pgf@xa=\dimen162
+\pgf@ya=\dimen163
+\pgf@xb=\dimen164
+\pgf@yb=\dimen165
+\pgf@xc=\dimen166
+\pgf@yc=\dimen167
+\pgf@xd=\dimen168
+\pgf@yd=\dimen169
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count194
+\c@pgf@countb=\count195
+\c@pgf@countc=\count196
+\c@pgf@countd=\count197
+\t@pgf@toka=\toks22
+\t@pgf@tokb=\toks23
+\t@pgf@tokc=\toks24
+\pgf@sys@id@count=\count198
+("C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgf.cfg"
+File: pgf.cfg 2020/01/08 v3.1.5b (3.1.5b)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+("C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-pdftex.def"
+File: pgfsys-pdftex.def 2020/01/08 v3.1.5b (3.1.5b)
+
+("C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-common-pdf.def"
+File: pgfsys-common-pdf.def 2020/01/08 v3.1.5b (3.1.5b)
+))) ("C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsyssoftpath.code.t
+ex"
+File: pgfsyssoftpath.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfsyssoftpath@smallbuffer@items=\count199
+\pgfsyssoftpath@bigbuffer@items=\count266
+) ("C:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsysprotocol.code.tex
+"
+File: pgfsysprotocol.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)) ("C:\Program Files\MiKTeX\tex/latex/xcolor\xcolor.sty"
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("C:\Program Files\MiKTeX\tex/latex/graphics-cfg\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcore.code.tex"
+Package: pgfcore 2020/01/08 v3.1.5b (3.1.5b)
+
+("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex"
+("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathcalc.code.tex"
+("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathutil.code.tex")
+("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathparser.code.tex"
+\pgfmath@dimen=\dimen170
+\pgfmath@count=\count267
+\pgfmath@box=\box56
+\pgfmath@toks=\toks25
+\pgfmath@stack@operand=\toks26
+\pgfmath@stack@operation=\toks27
+)
+("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.code.tex"
+("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.basic.code.tex"
+)
+("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.trigonometric.c
+ode.tex")
+("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.random.code.tex
+")
+("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.comparison.code
+.tex")
+("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.base.code.tex")
+("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.round.code.tex"
+) ("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.misc.code.tex
+")
+("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.integerarithmet
+ics.code.tex")))
+("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfloat.code.tex"
+\c@pgfmathroundto@lastzeros=\count268
+))
+("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfint.code.tex")
+("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepoints.code.tex"
+File: pgfcorepoints.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@picminx=\dimen171
+\pgf@picmaxx=\dimen172
+\pgf@picminy=\dimen173
+\pgf@picmaxy=\dimen174
+\pgf@pathminx=\dimen175
+\pgf@pathmaxx=\dimen176
+\pgf@pathminy=\dimen177
+\pgf@pathmaxy=\dimen178
+\pgf@xx=\dimen179
+\pgf@xy=\dimen180
+\pgf@yx=\dimen181
+\pgf@yy=\dimen182
+\pgf@zx=\dimen183
+\pgf@zy=\dimen184
+)
+("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathconstruct.code.
+tex"
+File: pgfcorepathconstruct.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@path@lastx=\dimen185
+\pgf@path@lasty=\dimen186
+)
+("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathusage.code.tex"
+File: pgfcorepathusage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@shorten@end@additional=\dimen187
+\pgf@shorten@start@additional=\dimen188
+) ("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorescopes.code.tex"
+File: pgfcorescopes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfpic=\box57
+\pgf@hbox=\box58
+\pgf@layerbox@main=\box59
+\pgf@picture@serial@count=\count269
+)
+("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoregraphicstate.code.t
+ex"
+File: pgfcoregraphicstate.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgflinewidth=\dimen189
+)
+("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransformations.cod
+e.tex"
+File: pgfcoretransformations.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@pt@x=\dimen190
+\pgf@pt@y=\dimen191
+\pgf@pt@temp=\dimen192
+)
+("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorequick.code.tex"
+File: pgfcorequick.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreobjects.code.tex"
+File: pgfcoreobjects.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathprocessing.code
+.tex"
+File: pgfcorepathprocessing.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorearrows.code.tex"
+File: pgfcorearrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfarrowsep=\dimen193
+)
+("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreshade.code.tex"
+File: pgfcoreshade.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@max=\dimen194
+\pgf@sys@shading@range@num=\count270
+\pgf@shadingcount=\count271
+)
+("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreimage.code.tex"
+File: pgfcoreimage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+
+("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreexternal.code.tex"
+File: pgfcoreexternal.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfexternal@startupbox=\box60
+)) ("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorelayers.code.tex"
+File: pgfcorelayers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransparency.code.t
+ex"
+File: pgfcoretransparency.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepatterns.code.tex"
+File: pgfcorepatterns.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+) ("C:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorerdf.code.tex"
+File: pgfcorerdf.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)))
+("C:\Program Files\MiKTeX\tex/generic/pgf/modules\pgfmoduleshapes.code.tex"
+File: pgfmoduleshapes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfnodeparttextbox=\box61
+)
+("C:\Program Files\MiKTeX\tex/generic/pgf/modules\pgfmoduleplot.code.tex"
+File: pgfmoduleplot.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+("C:\Program Files\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-0-65.sty"
+Package: pgfcomp-version-0-65 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@nodesepstart=\dimen195
+\pgf@nodesepend=\dimen196
+) ("C:\Program Files\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-1-18.st
+y"
+Package: pgfcomp-version-1-18 2020/01/08 v3.1.5b (3.1.5b)
+)) ("C:\Program Files\MiKTeX\tex/latex/pgf/utilities\pgffor.sty"
+("C:\Program Files\MiKTeX\tex/latex/pgf/utilities\pgfkeys.sty"
+("C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex"))
+("C:\Program Files\MiKTeX\tex/latex/pgf/math\pgfmath.sty"
+("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex"))
+("C:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgffor.code.tex"
+Package: pgffor 2020/01/08 v3.1.5b (3.1.5b)
+
+("C:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex")
+\pgffor@iter=\dimen197
+\pgffor@skip=\dimen198
+\pgffor@stack=\toks28
+\pgffor@toks=\toks29
+))
+("C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz\tikz.code.tex"
+Package: tikz 2020/01/08 v3.1.5b (3.1.5b)
+
+("C:\Program Files\MiKTeX\tex/generic/pgf/libraries\pgflibraryplothandlers.code
+.tex"
+File: pgflibraryplothandlers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@plot@mark@count=\count272
+\pgfplotmarksize=\dimen199
+)
+\tikz@lastx=\dimen256
+\tikz@lasty=\dimen257
+\tikz@lastxsaved=\dimen258
+\tikz@lastysaved=\dimen259
+\tikz@lastmovetox=\dimen260
+\tikz@lastmovetoy=\dimen261
+\tikzleveldistance=\dimen262
+\tikzsiblingdistance=\dimen263
+\tikz@figbox=\box62
+\tikz@figbox@bg=\box63
+\tikz@tempbox=\box64
+\tikz@tempbox@bg=\box65
+\tikztreelevel=\count273
+\tikznumberofchildren=\count274
+\tikznumberofcurrentchild=\count275
+\tikz@fig@count=\count276
+
+("C:\Program Files\MiKTeX\tex/generic/pgf/modules\pgfmodulematrix.code.tex"
+File: pgfmodulematrix.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfmatrixcurrentrow=\count277
+\pgfmatrixcurrentcolumn=\count278
+\pgf@matrix@numberofcolumns=\count279
+)
+\tikz@expandcount=\count280
+
+("C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibr
+arytopaths.code.tex"
+File: tikzlibrarytopaths.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)))
+("C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplots.code.tex"
+("C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplotscore.code.tex"
+\t@pgfplots@toka=\toks30
+\t@pgfplots@tokb=\toks31
+\t@pgfplots@tokc=\toks32
+\pgfplots@tmpa=\dimen264
+\c@pgfplots@coordindex=\count281
+\c@pgfplots@scanlineindex=\count282
+
+("C:\Program Files\MiKTeX\tex/generic/pgfplots/sys\pgfplotssysgeneric.code.tex"
+)) ("C:\Program Files\MiKTeX\tex/generic/pgfplots/libs\pgfplotslibrary.code.tex
+")
+("C:\Program Files\MiKTeX\tex/generic/pgfplots/oldpgfcompatib\pgfplotsoldpgfsup
+p_loader.code.tex"
+("C:\Program Files\MiKTeX\tex/generic/pgf/libraries\pgflibraryfpu.code.tex"))
+("C:\Program Files\MiKTeX\tex/generic/pgfplots/util\pgfplotsutil.code.tex"
+("C:\Program Files\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsliststruct
+ure.code.tex")
+("C:\Program Files\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsliststruct
+ureext.code.tex")
+("C:\Program Files\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsarray.code
+.tex"
+\c@pgfplotsarray@tmp=\count283
+)
+("C:\Program Files\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsmatrix.cod
+e.tex")
+("C:\Program Files\MiKTeX\tex/generic/pgfplots/numtable\pgfplotstableshared.cod
+e.tex"
+\c@pgfplotstable@counta=\count284
+\t@pgfplotstable@a=\toks33
+)
+("C:\Program Files\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsdeque.code
+.tex")
+("C:\Program Files\MiKTeX\tex/generic/pgfplots/util\pgfplotsbinary.code.tex"
+("C:\Program Files\MiKTeX\tex/generic/pgfplots/util\pgfplotsbinary.data.code.te
+x"))
+("C:\Program Files\MiKTeX\tex/generic/pgfplots/util\pgfplotsutil.verb.code.tex"
+)
+("C:\Program Files\MiKTeX\tex/generic/pgfplots/libs\pgflibrarypgfplots.surfshad
+ing.code.tex"
+\c@pgfplotslibrarysurf@no=\count285
+
+("C:\Program Files\MiKTeX\tex/generic/pgfplots/sys\pgflibrarypgfplots.surfshadi
+ng.pgfsys-pdftex.def")))
+("C:\Program Files\MiKTeX\tex/generic/pgfplots/util\pgfplotscolormap.code.tex"
+("C:\Program Files\MiKTeX\tex/generic/pgfplots/util\pgfplotscolor.code.tex"))
+("C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplotsstackedplots.code.tex")
+("C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplotsplothandlers.code.tex"
+("C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplotsmeshplothandler.code.tex
+" ("C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplotsmeshplotimage.code.tex
+"))) ("C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplots.scaling.code.tex")
+("C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplotscoordprocessing.code.tex
+") ("C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplots.errorbars.code.tex")
+("C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplots.markers.code.tex")
+("C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplotsticks.code.tex")
+("C:\Program Files\MiKTeX\tex/generic/pgfplots\pgfplots.paths.code.tex")
+("C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibr
+arydecorations.code.tex"
+("C:\Program Files\MiKTeX\tex/generic/pgf/modules\pgfmoduledecorations.code.tex
+"
+\pgfdecoratedcompleteddistance=\dimen265
+\pgfdecoratedremainingdistance=\dimen266
+\pgfdecoratedinputsegmentcompleteddistance=\dimen267
+\pgfdecoratedinputsegmentremainingdistance=\dimen268
+\pgf@decorate@distancetomove=\dimen269
+\pgf@decorate@repeatstate=\count286
+\pgfdecorationsegmentamplitude=\dimen270
+\pgfdecorationsegmentlength=\dimen271
+)
+\tikz@lib@dec@box=\box66
+)
+("C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibr
+arydecorations.pathmorphing.code.tex"
+("C:\Program Files\MiKTeX\tex/generic/pgf/libraries/decorations\pgflibrarydecor
+ations.pathmorphing.code.tex"))
+("C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibr
+arydecorations.pathreplacing.code.tex"
+("C:\Program Files\MiKTeX\tex/generic/pgf/libraries/decorations\pgflibrarydecor
+ations.pathreplacing.code.tex"))
+\pgfplots@numplots=\count287
+\pgfplots@xmin@reg=\dimen272
+\pgfplots@xmax@reg=\dimen273
+\pgfplots@ymin@reg=\dimen274
+\pgfplots@ymax@reg=\dimen275
+\pgfplots@zmin@reg=\dimen276
+\pgfplots@zmax@reg=\dimen277
+)
+("C:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibr
+aryplotmarks.code.tex"
+File: tikzlibraryplotmarks.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+
+("C:\Program Files\MiKTeX\tex/generic/pgf/libraries\pgflibraryplotmarks.code.te
+x"
+File: pgflibraryplotmarks.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)))
+("C:\Program Files\MiKTeX\tex/generic/pgfplots/numtable\pgfplotstable.code.tex"
+
+("C:\Program Files\MiKTeX\tex/generic/pgfplots/numtable\pgfplotstable.coltype.c
+ode.tex"))) ("C:\Program Files\MiKTeX\tex/latex/csvsimple\csvsimple.sty"
+Package: csvsimple 2021/09/09 v2.2.0 LaTeX CSV file processing
+)
+("C:\Program Files\MiKTeX\tex/latex/csvsimple\csvsimple-legacy.sty"
+Package: csvsimple-legacy 2021/09/09 version 2.2.0 LaTeX2e CSV file processing
+
+("C:\Program Files\MiKTeX\tex/latex/base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+("C:\Program Files\MiKTeX\tex/latex/tools\shellesc.sty"
+Package: shellesc 2019/11/08 v1.0c unified shell escape interface for LaTeX
+Package shellesc Info: Restricted shell escape enabled on input line 77.
+)
+\csv@file=\read3
+\c@csvinputline=\count288
+\c@csvrow=\count289
+\c@csvcol=\count290
+\csv@out=\write4
+)
+(exercise5importtablesfromcsv.aux)
+\openout1 = `exercise5importtablesfromcsv.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+
+! Undefined control sequence.
+<argument> \@trnslt@loaded@languages 
+                                     
+l.13 \begin{document}
+                     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+("C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count291
+\scratchdimen=\dimen278
+\scratchbox=\box67
+\nofMPsegments=\count292
+\nofMParguments=\count293
+\everyMPshowfont=\toks34
+\MPscratchCnt=\count294
+\MPscratchDim=\dimen279
+\MPnumerator=\count295
+\makeMPintoPDFobject=\count296
+\everyMPtoPDFconversion=\toks35
+) ("C:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty"
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+)
+ABD: EveryShipout initializing macros
+
+Package pgfplots Warning: running in backwards compatibility mode (unsuitable t
+ick labels; missing features). Consider writing \pgfplotsset{compat=1.17} into 
+your preamble.
+ on input line 13.
+
+PGFPlots: reading {table1.csv}
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 34.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 34.
+[1
+
+{C:/ProgramData/MiKTeX/pdftex/config/pdftex.map}]
+(exercise5importtablesfromcsv.aux) ) 
+Here is how much of TeX's memory you used:
+ 26538 strings out of 480790
+ 712744 string characters out of 2907057
+ 1036978 words of memory out of 3000000
+ 42169 multiletter control sequences out of 15000+200000
+ 532338 words of font info for 24 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 76i,11n,102p,855b,897s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX/fonts/type1/public
+/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm
+/cmr10.pfb>
+Output written on exercise5importtablesfromcsv.pdf (1 page, 25707 bytes).
+PDF statistics:
+ 17 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 13 words of extra memory for PDF output out of 10000 (max. 10000000)
+
